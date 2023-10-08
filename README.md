@@ -61,10 +61,10 @@ The metadata contains the 3 columns as thai-central dataset and
 - `dialect_type` specifies whether the data is from the `ECOM` or `SURV` subset.
 
 The baseline models of our corpus are at
-- Thai-central: https://huggingface.co/slscu/thai-dialect_thai-central_model
-- Khummuang: https://huggingface.co/slscu/thai-dialect_khummuang_model
-- Korat: https://huggingface.co/slscu/thai-dialect_korat_model
-- Pattani: https://huggingface.co/slscu/thai-dialect_pattani_model
+- Thai-central: https://huggingface.co/SLSCU/thai-dialect_thai-central_model
+- Khummuang: https://huggingface.co/SLSCU/thai-dialect_khummuang_model
+- Korat: https://huggingface.co/SLSCU/thai-dialect_korat_model
+- Pattani: https://huggingface.co/SLSCU/thai-dialect_pattani_model
 
 
 The Thai-dialect Corpus is licensed under CC-BY-SA 4.0. (https://creativecommons.org/licenses/by-sa/4.0/)
