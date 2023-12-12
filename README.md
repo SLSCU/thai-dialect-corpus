@@ -3,7 +3,7 @@ Corpus of Central Thai dialect and three other Thai dialects (Khummuang, Korat, 
 
 This corpus contains a officially split of 700 hours for Central Thai, and 40 hours for the three dialect each. The corpus is designed such that there are some parallel sentences between the dialects, making it suitable for Speech and Machine translation research.
 
-Our demo ASR model can be found at https://www.cmkl.ac.th/research/porjai. The data collection of the Thai Central was collected using [Wang Data Market](https://www.wang.in.th/).
+Our demo ASR model can be found at https://www.cmkl.ac.th/research/porjai. The Thai Central data was collected using [Wang Data Market](https://www.wang.in.th/).
 
 Since parts of this corpus are in the [ML-SUPERB challenge](https://multilingual.superbbenchmark.org), the test sets are not released in this github and would be released subsequently in ML-SUPERB.
 
@@ -75,9 +75,7 @@ We would like to thank the PMU-C grant (Thai Language Automatic Speech Recogniti
 for the support of this research. 
 We also would like to acknowledge the Apex compute cluster team which provides compute support for this project.
 
-Some evaluation data was donated from Wang.
-
-The data
+Some evaluation data was donated by Wang.
 
 ## Paper
 
