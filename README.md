@@ -79,7 +79,7 @@ Some evaluation data was donated by Wang.
 
 ## Paper
 
-[Thai Dialect Corpus and Transfer-based Curriculum Learning Investigation for Dialect Automatic Speech Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2023/suwanbandit23_interspeech.pdf)
+[Thai Dialect Corpus and Transfer-based Curriculum Learning Investigation for Dialect Automatic Speech Recognition](https://www.isca-archive.org/interspeech_2023/suwanbandit23_interspeech.html)
 ```
 @inproceedings{suwanbandit23_interspeech,
   author={Artit Suwanbandit and Burin Naowarat and Orathai Sangpetch and Ekapol Chuangsuwanich},
